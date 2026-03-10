@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Research Computer, PySide6**
 
-- 👯 I’m collaborate with **ACM ICPC CUSCO**
+- 👯 I’m collaborate with **Competitive-Programming-UNSAAC**
 
 - 👨‍💻 All of my projects are available at [github repositories](https://github.com/user0286-j?tab=repositories)
 
