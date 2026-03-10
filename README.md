@@ -3,15 +3,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=user0286-j&rank=AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Competitive programming**
+- 🔭 I’m currently working in a enterprise as software engineer.
 
-- 🌱 I’m currently learning **Algorithms (string, data structure, graph, etc.), Frameworks and deep learning**
+- 🌱 I’m currently learning **Deep Learning, Research Computer, PySide6**
 
-- 👯 I’m collaborate with **ACM chapter Cusco**
+- 👯 I’m collaborate with **ACM ICPC CUSCO**
 
 - 👨‍💻 All of my projects are available at [github repositories](https://github.com/user0286-j?tab=repositories)
 
-- 💬 Ask me about **competitive programming, algorithms and IA**
+- 💬 Ask me about **Competitive Programming, Algorithms, Deep Learning**
 
 - 📫 How to reach me **jhamsidrbz@gmail.com**
 
