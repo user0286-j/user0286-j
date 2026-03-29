@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I like to speak with other people that they say about algorithms**
 
+- My other account [user02860286](https://github.com/user02860286)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/jhamsid-romero-bernal-a0b207273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/jhamsid-romero-bernal-a0b207273" height="30" width="40" /></a>
