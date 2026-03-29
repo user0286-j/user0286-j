@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in a enterprise as software engineer.
 
-- 🌱 I’m currently learning **Deep Learning, Research Computer, PySide6**
+- 🌱 I’m currently learning **Deep Learning, Research Computer, PySide6, SQLAlchemy**
 
 - 👯 I’m collaborate with **Competitive-Programming-UNSAAC**
 
@@ -77,7 +77,6 @@
 <h2> SO</h2>
 
 <div style="flex">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="height: 3em"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="height: 3em"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" style="height: 3em"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="height: 3em"/>
